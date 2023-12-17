@@ -2,7 +2,7 @@
 ### I'm a Full Stack Developer.
 ---
 
-Python, JavaScript, HTML, CSS, NodeJs, ReactJs, Redux, Knex, SQL
+Python, JavaScript, HTML, CSS, NodeJs, ReactJs, NextJS, Redux, Knex, SQL, WordPress, SCSS, TWIG, PHP
 
 ---
 

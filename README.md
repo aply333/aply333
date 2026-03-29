@@ -2,10 +2,5 @@
 ### I'm a Full Stack Developer.
 ---
 
-Python, JavaScript, HTML, CSS, NodeJs, ReactJs, NextJS, Redux, Knex, SQL, WordPress, SCSS, TWIG, PHP
-
----
-
-- I studied at BloomTech formerly Lambda School, where I went over Front-End to Back-End Development as well as Computer Science.
-- Get it, Break it, Make it
+Full stack developer building clean, accessible web apps — React, Next.js, Svelte, PHP, WordPress. Currently pursuing a CS degree at SRJC while shipping real projects. Figma to deployment, accessibility-first, and obsessed with code someone else can maintain.
 
